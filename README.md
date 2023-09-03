@@ -1,2 +1,2 @@
-# Portfolio-Landing-Page
-This is an Attractive And Responsive Landing Page for My Portfolio Using HTML and CSS.
+# portfolio-landing-page
+This is an attractive and responsive Landing Page for my Portfolio using HTML and CSS.
